@@ -56,7 +56,7 @@ $ yarn android
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/rafaelmartins92/mines/blob/master/LICENSE) for more information.
 
 ---
 
