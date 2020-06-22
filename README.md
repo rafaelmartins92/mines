@@ -3,6 +3,20 @@
     <br>
 </h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-martins92/">
+  <img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&message=Rafael%20Martins&color=orange&style=for-the-badge">
+	</a>
+  
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/rafaelmartins92/mines?style=for-the-badge">
+  
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/rafaelmartins92/mines?style=for-the-badge">
+  
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/rafaelmartins92/mines?style=for-the-badge">
+  
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/rafaelmartins92/mines?style=for-the-badge">
+</p>
+
 <h4 align="center">
   <p>Mines Game!</p>
   
@@ -33,7 +47,7 @@ This project was developed with the following technologies:
 
 ## :information_source: How to use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
