@@ -74,7 +74,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/rafa
 
 ---
 
-Made with ♥ by Rafael Martins :wave: [Get in touch!](https://www.linkedin.com/in/rafael-martins92/)
+<h4 align="center">
+    Made with ♥ by Rafael Martins 👋 <a href="https://www.linkedin.com/in/rafael-martins92/" target="_blank">Get in touch!</a>
+</h4>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
