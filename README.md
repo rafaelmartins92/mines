@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo" src="https://ik.imagekit.io/rafaelmartins/react-native_kjxeAaJ0a.png" />
+    <img alt="Logo" src="https://ik.imagekit.io/rafaelmartins/README/react-native_kjxeAaJ0a.png" />
     <br>
 </h1>
 
